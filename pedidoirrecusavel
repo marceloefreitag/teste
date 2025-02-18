@@ -9,7 +9,7 @@
     <style>
         body {
     font-family: 'MineFont', cursive;
-    background: url('assets/teste/1.jpg');
+    background: url('1.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
