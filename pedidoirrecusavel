@@ -9,16 +9,12 @@
     <style>
         body {
     font-family: 'MineFont', cursive;
-    background: url('1.jpg');
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    min-height: 100vh;
-    margin: 0;
-    padding: 20px;
-    overflow-x: hidden;
+          background-image: url('1.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 100vh;
+            margin: 0;
 }
         a {
             text-decoration: none;
